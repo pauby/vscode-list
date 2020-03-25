@@ -1,6 +1,12 @@
 # vscode-list
 A list of useful extensions, tricks,  tips and tutorials gathered from the interwebs.
 
+## Debugging
+
+### Pluralsight
+
+* [Debugging PowerShell in VS Code](https://www.pluralsight.com/courses/debugging-powershell-vs-code)
+
 ## Extensions
 
 * [CodeTour](https://github.com/vsls-contrib/codetour)
