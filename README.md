@@ -1,6 +1,11 @@
 # vscode-list
 A list of useful extensions, tricks,  tips and tutorials gathered from the interwebs.
 
+## Tips
+
+* [Multiline find and replace](https://twitter.com/mattbierner/status/1248339906184839169)
+ VS Code's find/replace widget supports searching for multiline text. Use CTRL+Return to insert a newline while typing or just paste in some multiline text.
+
 ## Debugging
 
 ### Pluralsight
